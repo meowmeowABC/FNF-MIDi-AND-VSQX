@@ -1,3 +1,0 @@
-name=El BF
-image=bf normal.bmp
-sample=sample.wav
